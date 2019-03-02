@@ -1,15 +1,7 @@
-Projet Poly
+Hash Code 2016, Final Round
 ===========
 
-Le projet Polyhash consiste à programmer la planification du travail d'un ensemble de satellites à l'aide d'une liste
-de points d'intérêt à photographier, de sorte à maximiser le nombre d'images satellite réalisées dans un temps donné.
-
-===========
-
-Lien de la vidéo : http://filex.univ-nantes.fr/get?k=KkYgSz5JFkKke11Y9N
-Mot de passe : polygone
-
-===========
+*A satellite equipped with a high-resolution camera can be an excellent source of geo imagery. While harder to deploy than a plane or a Street View car, a satellite — once launched — provides a continuous stream of fresh data. Terra Bella is a division within Google that deploys and manages high-resolution imaging satellites in order to capture rapidly-updated imagery and analyze them for commercial customers. With a growing constellation of satellites and a constant need for fresh imagery, distributing the work between the satellites is a major challenge. Given a set of imaging satellites and a list of image collections ordered by customers, schedule satellite operations so that the total value of delivered image collections is as high as possible.*
 
 Equipe et répartition des tâches(non exhaustive) :
 
