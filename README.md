@@ -1,4 +1,4 @@
-Hash Code 2016, Final Round
+Hash Code 2016, Final Round - Satellites
 ===========
 
 *A satellite equipped with a high-resolution camera can be an excellent source of geo imagery. While harder to deploy than a plane or a Street View car, a satellite — once launched — provides a continuous stream of fresh data. Terra Bella is a division within Google that deploys and manages high-resolution imaging satellites in order to capture rapidly-updated imagery and analyze them for commercial customers. With a growing constellation of satellites and a constant need for fresh imagery, distributing the work between the satellites is a major challenge. Given a set of imaging satellites and a list of image collections ordered by customers, schedule satellite operations so that the total value of delivered image collections is as high as possible.*
